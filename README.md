@@ -8,4 +8,4 @@ Page shows 16 cards, back side. Above, I find rating, timer , moves counter and 
 
 
 # Instalation:
-Coleen the hana-alotaibi repository and ues Hana-Alotaibi to install.
+Colen the hana-alotaibi repository and ues Memory-Game to install.
